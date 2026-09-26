@@ -7,7 +7,7 @@ CHROMA_DIR = "./chroma_db"
 EMBEDDING_MODEL = "qwen3-embedding:0.6b"
 
 # Replace this with the exact name of your model
-LLM_MODEL = ""
+LLM_MODEL = "qwen3:4b-instruct"
 
 # Connect to Ollama and ChromaDB
 
